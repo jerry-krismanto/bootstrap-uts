@@ -5,3 +5,14 @@
     box-sizing: border-box;
     margin: 10px;
 }
+
+.right-side{
+    width: 30%;
+    float: right;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.card img{
+    display: block;
+}
