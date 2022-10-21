@@ -1,0 +1,19 @@
+.card img{
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+.card-group{
+    margin: 10px;
+}
+
+.no-deco{
+    text-decoration: none;
+    color: black;
+}
+
+.no-deco:hover{
+    text-decoration: none;
+    color: black;
+}

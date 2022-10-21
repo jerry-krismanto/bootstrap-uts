@@ -1,0 +1,7 @@
+.left-side{
+    width: 66%;
+    float: left;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin: 10px;
+}
