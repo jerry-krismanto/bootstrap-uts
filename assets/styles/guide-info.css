@@ -1,0 +1,18 @@
+.right-side {
+  width: 25%;
+  float: right;
+  margin: 0 auto;
+  padding: 0 auto;
+  box-sizing: border-box;
+  margin-top: 11.2rem !important;
+}
+
+.left-side {
+  width: 65%;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
