@@ -17,3 +17,22 @@
     text-decoration: none;
     color: black;
 }
+
+.op-btn{
+    background-color: #ffac04;
+    padding: 5px;
+    margin: 5px;
+}
+
+.op-btn img{
+    width: 75px;
+    height: 75px;
+}
+
+.op-btn:hover{
+    background-color: #ffac04;
+}
+
+.search-bar{
+    width: 18rem;
+}

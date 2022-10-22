@@ -1,0 +1,8 @@
+let filterArray = [];
+
+let galleryArray = [
+    {
+        
+    }
+
+]
